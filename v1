@@ -1,5 +1,3 @@
-local Update = loadstring(Game:HttpGet"https://pst.innomi.net/paste/6bcg35hq63vyh34ofpqo2qz7/raw")()
-local Alert = loadstring(Game:HttpGet"https://pst.innomi.net/paste/quhp69hwebpdu6k4uzmw9oe4/raw")()
 local Library = Update:Window("Blox Fruits")
 local Main = Library:Tab("Main","rbxassetid://10723407389")
 local Set = Library:Tab("Setting","rbxassetid://10734950309")
